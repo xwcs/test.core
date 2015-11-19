@@ -1,0 +1,4 @@
+[submodule "xwcs.core"]
+	path = xwcs.core
+	url = https://github.com/xwcs/xwcs.core.git
+	branch = master
