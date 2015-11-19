@@ -2,3 +2,7 @@
 	path = xwcs.core
 	url = https://github.com/xwcs/xwcs.core.git
 	branch = master
+[submodule "xwcs.trediws"]
+	path = xwcs.trediws
+	url = https://github.com/xwcs/xwcs.trediws.git
+	branch = master
